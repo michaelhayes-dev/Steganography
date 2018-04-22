@@ -1,2 +1,6 @@
 ﻿  Steganography.cpp
+c:\users\micha\documents\programming projects\steganography\steganography\steganography.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\documents\programming projects\steganography\steganography\steganography.cpp(98): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\micha\documents\programming projects\steganography\steganography\steganography.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\documents\programming projects\steganography\steganography\steganography.cpp(132): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
   Steganography.vcxproj -> C:\Users\micha\Documents\Programming Projects\Steganography\Steganography\Debug\Steganography.exe
